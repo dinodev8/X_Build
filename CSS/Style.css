@@ -1,0 +1,29 @@
+/*Element Selector */
+p {
+  color: red;
+}
+
+/*ID Selector*/
+#X {
+  color: black;
+}
+
+/*Class Selector*/
+.Y {
+  color: blueviolet;
+}
+/*Pseudo Selector*/
+#xop:hover {
+  color: rgb(116, 11, 116);
+}
+/* #google_link:link {
+  color: blue;
+}
+#google_link:visited {
+  color: magenta;
+} */
+
+/*Advanced Selector*/
+p + a {
+  color: rgb(200, 78, 139);
+}
